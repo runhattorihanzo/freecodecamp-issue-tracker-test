@@ -1,0 +1,85 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(1, 207, 190);
+margin: auto;
+}
+
+h2 {
+  text-align: center;
+ 
+
+}
+
+h3 {
+  text-align: center;
+  color: rgb(207, 86, 0);
+}
+
+section {
+  text-align: center;
+  background: rgb(149, 3, 3);
+}
+
+label {
+  color: rgb(255, 0, 0);
+}
+
+
+button {
+background: rgb(142, 142, 142);
+}
+
+
+
+body {
+  padding: 15px;
+  background: rgb(0, 0, 0);
+}
+
+.issue {
+  jumbotron
+  margin: 20px;
+  padding: 5px;
+  width: 60%;
+  border: 2px solid rgb(132, 132, 132);
+}
+
+.closed {
+  background-color: lightgrey;
+}
+
+.id {
+  font-size: 10.5px;
+}
+
+
+
+
+form button {
+border-radius: 5px;     
+padding: 5px 20px ; 
+margin-top: 15px;
+border: none;
+color: rgb(241, 241, 241);
+}
+
+
+
+:placeholder-shown {
+ background: darkslategrey;
+}
+
+a {
+text-align: right;
+margin-left: 500px;
+color: rgb(230, 230, 230);
+}
+
+::placeholder {
+  color: rgb(248, 248, 248);
+}
